@@ -1,0 +1,42 @@
+Write a tweet:
+#Twitter is a #great platform
+Write another tweet? (y/n):
+y
+Write a tweet:
+#Greatness is defined by actions not virtues.
+Write another tweet? (y/n):
+y
+Write a tweet:
+#Sachin was #definitely #one of the #greatest #cricket players of out #time
+Write another tweet? (y/n):
+y
+Write a tweet:
+#Cricket is a very popular sport in #India . More so than the national #sport of hockey
+Write another tweet? (y/n):
+y
+Write a tweet:
+The #tech #industry always #shifts in #unpredictable ways. One #must #always try to stay ahead of the #curve
+Write another tweet? (y/n):
+y
+Write a tweet:
+To become good at #cricket you need to play #cricket
+Write another tweet? (y/n):
+y
+Write a tweet:
+The movie #one is a #great movie
+Write another tweet? (y/n):
+n
+Trending Hashtags:
+       Hash Tag          Count
+       #cricket              4
+         #great              2
+           #one              2
+         #india              1
+        #sachin              1
+     #greatness              1
+          #must              1
+    #definitely              1
+      #industry              1
+         #curve              1
+
+Process finished with exit code 0
